@@ -6,4 +6,6 @@ The following technologies were used to implement this functionality:
 - the server part is Express.js and the MongoDB database.
 
 TypeScript and Socket.io web sockets were used to write both parts of the application.
+Authorization is implemented using a JWT token
+
 Client: https://github.com/oscherniavskii/bca-client
