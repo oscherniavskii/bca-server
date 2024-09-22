@@ -1,4 +1,4 @@
-# Best Chat App (client)
+# Best Chat App (server)
 
 BCA is a web application for exchanging messages and files.
 The following technologies were used to implement this functionality:
